@@ -1,4 +1,6 @@
 
 ## My first repository
 
-Author: Ningbo Fan
+-Author: Ningbo Fan
+-Date:2020-09-01
+
